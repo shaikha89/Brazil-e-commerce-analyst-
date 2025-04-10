@@ -13,4 +13,7 @@ In this data sprint, we utilized two primary datasets:
 - Dashboards visualizing key sales metrics and trends.
 - Presentation summarizing insights and recommendations for improving sales strategies.
 
-
+# Skills Used
+Data cleaning and processing with Python.
+Data visualization using Power BI.
+Application of statistical analysis to derive meaningful insights from sales data.
