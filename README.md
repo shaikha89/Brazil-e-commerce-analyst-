@@ -15,5 +15,5 @@ In this data sprint, we utilized two primary datasets:
 
 # Tools Used 
 - Data cleaning and processing with Python.
--Data visualization using Power BI.
+- Data visualization using Power BI.
 
