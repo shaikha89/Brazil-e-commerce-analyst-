@@ -13,3 +13,5 @@ Marketing Funnel Data: Includes data on acquisition channels, conversion rates, 
 Comprehensive analysis of sales performance.
 Dashboards visualizing key sales metrics and trends.
 Presentation summarizing insights and recommendations for improving sales strategies.
+
+![](https://www.agenciaeplus.com.br/wp-content/uploads/2018/06/ecommercebrasil.jpg)
