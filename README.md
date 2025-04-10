@@ -18,9 +18,9 @@ In this data sprint, we utilized two primary datasets:
 - Data visualization using Power BI.
 
 # Dataset
-The dataset includes 100,000 orders from Olist, described by various variables such as order ID, order item ID, product ID, seller ID, shipping limit date, price, freight value, and quantity. These variables provide insights into sales performance, customer behavior, and shipping logistics within the Brazilian e-commerce market.
+<div style = "text-align:right">The dataset includes 100,000 orders from Olist, described by various variables such as order ID, order item ID, product ID, seller ID, shipping limit date, price, freight value, and quantity. These variables provide insights into sales performance, customer behavior, and shipping logistics within the Brazilian e-commerce market.
 
-Olist is a Brazilian e-commerce platform that connects small and medium businesses with consumers, facilitating online sales across diverse product categories. This dataset enables analysis of market trends and operational efficiencies, helping businesses optimize their performance.
+Olist is a Brazilian e-commerce platform that connects small and medium businesses with consumers, facilitating online sales across diverse product categories. This dataset enables analysis of market trends and operational efficiencies, helping businesses optimize their performance.</div>
 
 | Column Name         | Data Type   | Description                                                      |
 |---------------------|-------------|------------------------------------------------------------------|
